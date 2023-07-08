@@ -1,5 +1,5 @@
 # magento-size-chart
-Size Chart extension allows you to create and assign size chart to product conveniently, allows you to attract more customers and improving your product pages. A size chart can be shown in popup, under Add to Cart button or in product information tab.
+Magento 2 Size Chart extension lets you create and assign size charts to products with ease, improving your product pages and attracting more customers. A size chart can be shown in a popup, under the Add to Cart button or in the product information tab
 
 Please go to https://magehq.com/size-chart.html buy extension
 
